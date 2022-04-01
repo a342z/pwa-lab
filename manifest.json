@@ -5,8 +5,8 @@
   "background_color": "#fff",
   "display": "standalone",
   "orientation": "portrait",
-  "scope": "/",
-  "start_url": "/",
+  "scope": "https://a342z.github.io/pwa-lab/",
+  "start_url": "https://a342z.github.io/pwa-lab/",
   "icons": [
     {
       "src": "images/icons/icon-72x72.png",
