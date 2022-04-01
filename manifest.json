@@ -5,8 +5,8 @@
   "background_color": "#fff",
   "display": "standalone",
   "orientation": "portrait",
-  "scope": "/pwa-lab/",
-  "start_url": "/pwa-lab/",
+  "scope": ".",
+  "start_url": "/",
   "icons": [
     {
       "src": "images/icons/icon-72x72.png",
